@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+*{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.App {
+  text-align: center;
+  background-color: rgb(53, 187, 240);
+  min-height: 100vh;
+}
+
+.form-Search {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 50%;
+  padding: 10px;
+  border: none;
+}
+
+.search-button {
+  padding: 10px 20px;
+  background-color: rgb(255, 255, 0);
+  border: none;
+}
+

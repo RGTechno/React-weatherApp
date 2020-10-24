@@ -1,0 +1,17 @@
+.weather {
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 5px 20px rgb(255, 92, 92);
+    min-width: 40%;
+    margin: 20px;
+    background-color: white;
+}
+
+.weatherHead {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
